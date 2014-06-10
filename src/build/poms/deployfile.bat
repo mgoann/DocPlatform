@@ -20,4 +20,6 @@ mvn install:install-file -Dfile=bst-player-api-1.2.jar -DgroupId=com.bramosystem
 mvn install:install-file -Dfile=gwt-links-1.4.2.jar -DgroupId=com.orange.links -DartifactId=gwt-links -Dversion=1.4.2 -Dpackaging=jar
 mvn install:install-file -Dfile=gwt-image-loader-1.1.4.jar -DgroupId=com.reveregroup.gwt -DartifactId=gwt-image-loader -Dversion=1.1.3 -Dpackaging=jar
 mvn install:install-file -Dfile=ofcgwt.jar -DgroupId=ofcgwt -DartifactId=ofcgwt -Dversion=1.3.0 -Dpackaging=jar
-mvn install:install-file -Dfile=ofcgwt.jar -DgroupId=ofcgwt -DartifactId=ofcgwt -Dversion=1.3.0 -Dpackaging=jar
+mvn install:install-file -Dfile=gwt-dev.jar -DgroupId=com.google.gwt -DartifactId=gwt-dev -Dversion=2.5.1 -Dpackaging=jar
+mvn install:install-file -Dfile=ojdbc6-11.2.0.1.0.jar -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.2 -Dpackaging=jar
+mvn install:install-file -Dfile=jtds-1.2.5.jar -DgroupId=net.sourceforge.jtds -DartifactId=jtds -Dversion=1.2.5 -Dpackaging=jar

@@ -6,3 +6,5 @@ gen/
 proguard/
 target/
 gwt-unitCache/
+classes/
+war/
