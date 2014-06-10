@@ -8,3 +8,5 @@ target/
 gwt-unitCache/
 classes/
 war/
+.classpath
+.project
